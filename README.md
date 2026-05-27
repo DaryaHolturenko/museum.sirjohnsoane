@@ -1,2 +1,0 @@
-# museumsirjohnsoane
-My dissertation

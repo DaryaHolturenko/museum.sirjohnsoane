@@ -1,3 +1,4 @@
+<script src="../main.js"></script>
 const ticketForm = document.getElementById("ticketForm");
 const successMessage = document.getElementById("successMessage");
 

@@ -1,4 +1,4 @@
-<script src="../main.js"></script>
+<script src="main.js"></script>
 const ticketForm = document.getElementById("ticketForm");
 const successMessage = document.getElementById("successMessage");
 
@@ -43,27 +43,27 @@ const models = [
   {
     title: "Камін",
     text: "Декоративний камін є частиною музейного інтер’єру та створює атмосферу класичного простору.",
-    src: "../model/fireplace_1.glb"
+    src: "fireplace_1.glb"
   },
   {
     title: "Статуя",
     text: "Класична скульптура доповнює художньо-історичний характер музейної експозиції.",
-    src: "../model/sculpture.glb"
+    src: "sculpture.glb"
   },
   {
     title: "Архітектурний фрагмент",
     text: "Архітектурні фрагменти демонструють декоративні особливості історичного простору.",
-    src: "../model/greek_column.glb"
+    src: "greek_column.glb"
   },
   {
     title: "Астролябія",
     text: "Експонат демонструє наукову та історичну цінність колекції.",
-    src: "../model/astronomical_quintant.glb"
+    src: "astronomical_quintant.glb"
   },
   {
     title: "Сходи",
     text: "Сходи підкреслюють архітектурну глибину простору.",
-    src: "../model/staircase.glb"
+    src: "staircase.glb"
   }
 
 ];
